@@ -1,0 +1,17 @@
+{
+    "projects_directory": "/home/pi/PythonProjects",
+    "ipv4": "0.0.0.0",
+    "port": 3000,
+    "resolution_note": "1920x1080, 800x480",
+    "resolution": "800x480",
+    "model_name": "FM2-W186",
+    "model_names": [
+        "FM2-W186",
+        "FM2-T318"
+    ],
+    "fullscreen": true,
+    "image_url": "http://127.0.0.1:2002/image?source=video_capture&id=0",
+    "password_to_reset": "484",
+    "is_set_qty": true,
+    "fake_version": "Program Version 1.0"
+}

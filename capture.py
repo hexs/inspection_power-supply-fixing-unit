@@ -3,7 +3,7 @@ import numpy as np
 import threading
 import time
 from typing import List, Optional
-from server import run_server
+from capture_server import run_server
 
 
 class ExposureFusionEngine:
